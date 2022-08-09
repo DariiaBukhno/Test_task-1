@@ -58,7 +58,7 @@ text-decoration: none;
     background: #FF7143;
 }
 .button_orange:hover{
-    background: #fd845c;
+    background: #df582b;
     transition: 500ms;
 }
 
@@ -89,7 +89,7 @@ text-decoration: none;
     background: #5454D4;
 }
 .button_violet:hover{
-    background: #3535c9;
+    background: #2626ab;
     transition: 500ms;
 }
 
